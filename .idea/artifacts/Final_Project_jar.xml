@@ -2,7 +2,7 @@
   <artifact type="jar" name="Final_Project:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Final_Project_jar</output-path>
     <root id="archive" name="Final_Project.jar">
-      <element id="module-output" name="Final_Project" />
+      <element id="module-output" name="FoodManagementSystem" />
       <element id="module-output" name="Login" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18.0.1/javafx-graphics-18.0.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18.0.1/javafx-base-18.0.1.jar" path-in-jar="/" />

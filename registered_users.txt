@@ -1,21 +1,7 @@
-abc	abc
-qwe	qwe
-admin	admin
-www	www
-qqq	qqq
-www	www
-q1w	q1w
-Haider	Abbas
-Hassan 	RAZA
-er	er
-wahaj	wahaj
-qwe	mn
-nnn	nnn
-3243444	42354524535435
-er	erfgr
-rrr	rrr
-123	123
-ty	ty
-wahaj	wahaj
-admin	qatar
-ad	ad
+qwe	qweqweqwe	Manager
+lmn	lmnlmnlmn	Manager
+lmkkk	lmnlmnlmn	Manager
+abc	abcabacabc	Manager
+plpl	plplklkll	Manager
+abcc	12345678	Manager
+www	12345678	Manager
